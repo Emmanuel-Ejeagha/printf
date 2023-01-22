@@ -39,5 +39,3 @@ int get_precision(const char *format, int *i, va_list list)
 
 	return (precision);
 }
-Footer
-© 2023 GitHub, Inc.
